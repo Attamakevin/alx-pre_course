@@ -1,1 +1,1 @@
-cmd: touch up_to_date
+cmd for getting all changes from main branch = git pull README.md. cmd for creating file= touch up_to_date. cmd for writing into the file= emacs filename
